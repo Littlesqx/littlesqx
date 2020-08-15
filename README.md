@@ -5,5 +5,3 @@
 > 每过一天 叮咛自己再怂一点
 
 🇨🇳 China Shenzhen・Web developer -> Backend develop -> Web developer
-
-https://littlesqx.com
