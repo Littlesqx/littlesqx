@@ -4,4 +4,4 @@
 
 > 每过一天 叮咛自己再怂一点
 
-🇨🇳 China Shenzhen・Web developer -> Backend develop -> Web developer
+🇨🇳 China Shenzhen・Web developer -> Backend developer -> Web developer
